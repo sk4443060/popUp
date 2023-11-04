@@ -1,0 +1,12 @@
+STEPS FOR POP UP IMPLEMENTATION
+01. Copy & Paste Pop Up Div from the body from the index.html
+
+02. Include the following css in the head:
+    popUpStyle01_style.css
+    popUpStyle02_stackpath-bootstrapcdn-com_bootstrap_4.3.1_css_bootstrap.min.css
+    
+03. Include the following js in the most bottom before the closed body:
+    jsPopUpFile01_Script.js
+    jsPopUpFile02_Jquery-3.3.1.slim.min.js
+    jsPopUpFile03_Cdnjs.cloudflare.com_ajax_libs_popper.js_1.14.7_umd_popper.min.js
+    jsPopUpFile04_bootstrap.min.js
